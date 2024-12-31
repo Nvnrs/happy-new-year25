@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Happy";
+}
+
+.page-padding {
+  width: 100%;
+  height: 100%;
+  padding: 2.5rem;
+}
+
+@font-face {
+  font-family: "Happy";
+  src: url("/happy.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
