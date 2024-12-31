@@ -4,5 +4,5 @@ import vue from "@vitejs/plugin-vue";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: "/happy_new_year25",
+  base: "/happy-new-year25/",
 });
