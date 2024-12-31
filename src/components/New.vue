@@ -75,7 +75,7 @@ onMounted(() => {
       <div class="new-component">
         <div class="top__new"></div>
         <div class="mid__new">
-          <h1 class="h1__new">BONNE ANNEE</h1>
+          <h1 class="h1__new">BONNE ANNÉE</h1>
           <h1 :class="`number__new selection ${glow}`">202{{ number }}</h1>
         </div>
         <div class="bottom__new glass">
