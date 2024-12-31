@@ -81,7 +81,7 @@ onMounted(() => {
         <span class="intro__pulse pulse2" ref="pulse2"></span>
         <span class="intro__pulse pulse2" ref="pulse3"></span>
         <h1 class="h1__intro">{{ 3 - click }}</h1>
-        <p class="text__intro">Prêts ?</p>
+        <p class="text__intro">Prêt ?</p>
         <div class="finger">
           <div class="finger__svg"></div>
         </div>
