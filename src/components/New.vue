@@ -190,7 +190,7 @@ onMounted(() => {
 .glow {
   color: white;
   animation: glowAnimation 2s ease-in-out infinite alternate;
-  transition: color 1s ease-in-out, text-shadow 1s ease-in-out; /* Transition fluide de la couleur et de la lueur */
+  transition: color 1s ease-in-out, text-shadow 1s ease-in-out;
 }
 
 @keyframes glowAnimation {

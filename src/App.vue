@@ -25,7 +25,7 @@ function start_new() {
 <style scoped>
 .page-wrapper {
   width: 100vw;
-  height: 100vh;
+  height: 100svh;
   overflow: hidden;
   position: relative;
 }
